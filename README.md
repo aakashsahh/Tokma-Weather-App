@@ -108,3 +108,11 @@ The app uses **Material Design 3** with:
 - **Network**: HTTP package
 - **Local Storage**: SharedPreferences
 - **Location**: Geolocator
+
+## Screenshots
+<img width="134" height="299" alt="Screenshot_1768580076" src="https://github.com/user-attachments/assets/5c4132ce-7990-4709-bad5-80c5a79b28e5" />
+
+
+<img width="134" height="299" alt="Screenshot_1768580046" src="https://github.com/user-attachments/assets/3824ef3c-cd7b-4a8c-96af-b2dbc7e1807b" />
+
+
