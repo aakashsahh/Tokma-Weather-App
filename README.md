@@ -87,15 +87,10 @@ lib/
 - **equatable** (^2.0.5) - Value equality
 
 ### Features
-- **http** (^1.1.0) - HTTP client
-- **geolocator** (^10.1.0) - Location services
-- **shared_preferences** (^2.2.2) - Local storage
-- **cached_network_image** (^3.3.0) - Image caching
-
-### Testing
-- **mockito** (^5.4.2) - Mocking framework
-- **bloc_test** (^9.1.5) - BLoC testing utilities
-- **build_runner** (^2.4.6) - Code generation
+- **http**  - HTTP client
+- **geolocator**  - Location services
+- **shared_preferences**  - Local storage
+- **cached_network_image** - Image caching
 
 ## 🎨 Design System
 
